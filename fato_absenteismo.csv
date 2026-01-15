@@ -1,0 +1,1201 @@
+ID_Falta,ID_Funcionario,Data_Falta,Horas_Ausencia,Motivo
+1,316,2024-05-08,8,Licença
+2,472,2024-07-14,8,Consulta Médica
+3,273,2024-05-19,8,Consulta Médica
+4,352,2025-03-19,8,Doença
+5,144,2024-10-09,8,Problemas Pessoais
+6,16,2024-11-07,4,Licença
+7,302,2025-06-18,8,Doença
+8,423,2025-10-26,8,Doença
+9,245,2024-10-03,8,Problemas Pessoais
+10,415,2024-03-01,8,Doença
+11,107,2024-11-14,8,Problemas Pessoais
+12,88,2024-02-21,8,Doença
+13,129,2024-06-01,4,Problemas Pessoais
+14,395,2024-11-06,8,Licença
+15,375,2025-06-27,8,Problemas Pessoais
+16,341,2025-07-20,4,Problemas Pessoais
+17,4,2025-01-23,8,Consulta Médica
+18,327,2025-07-01,8,Licença
+19,410,2025-09-13,8,Licença
+20,367,2024-06-25,4,Licença
+21,306,2024-12-27,4,Doença
+22,396,2024-11-09,8,Consulta Médica
+23,95,2024-04-06,4,Licença
+24,209,2024-07-31,8,Doença
+25,225,2024-05-16,8,Doença
+26,459,2024-01-06,4,Doença
+27,348,2024-04-18,4,Consulta Médica
+28,480,2025-06-30,8,Doença
+29,321,2024-02-08,8,Consulta Médica
+30,47,2025-10-23,8,Problemas Pessoais
+31,476,2025-02-28,8,Doença
+32,181,2025-09-21,8,Licença
+33,106,2024-09-17,8,Doença
+34,199,2025-03-01,8,Problemas Pessoais
+35,386,2024-03-27,8,Problemas Pessoais
+36,106,2025-04-09,8,Doença
+37,280,2024-03-16,8,Problemas Pessoais
+38,260,2025-04-15,4,Consulta Médica
+39,108,2025-02-17,8,Consulta Médica
+40,19,2025-12-26,4,Doença
+41,410,2025-04-01,4,Consulta Médica
+42,459,2024-10-11,8,Consulta Médica
+43,296,2024-08-26,8,Licença
+44,306,2025-11-07,8,Doença
+45,171,2025-08-21,8,Problemas Pessoais
+46,331,2025-10-14,8,Doença
+47,493,2025-11-02,4,Consulta Médica
+48,195,2025-07-11,8,Licença
+49,12,2025-01-06,8,Doença
+50,195,2025-05-09,8,Doença
+51,490,2025-09-15,8,Consulta Médica
+52,283,2024-02-14,4,Consulta Médica
+53,369,2025-02-04,8,Doença
+54,182,2024-09-03,8,Consulta Médica
+55,450,2025-09-07,8,Consulta Médica
+56,305,2025-08-19,8,Consulta Médica
+57,144,2025-03-25,8,Consulta Médica
+58,386,2025-04-29,8,Consulta Médica
+59,316,2025-10-07,8,Licença
+60,182,2025-09-11,8,Consulta Médica
+61,30,2024-01-18,4,Problemas Pessoais
+62,84,2025-08-28,4,Doença
+63,166,2025-10-23,8,Licença
+64,284,2024-10-15,4,Licença
+65,281,2025-02-17,4,Consulta Médica
+66,96,2025-12-21,8,Doença
+67,381,2025-09-29,8,Problemas Pessoais
+68,266,2024-08-22,8,Consulta Médica
+69,444,2025-02-19,4,Doença
+70,298,2025-05-13,4,Consulta Médica
+71,296,2025-09-25,4,Consulta Médica
+72,225,2025-10-11,8,Consulta Médica
+73,333,2024-04-24,8,Consulta Médica
+74,361,2025-11-04,8,Consulta Médica
+75,374,2025-12-13,4,Consulta Médica
+76,42,2024-08-21,8,Consulta Médica
+77,303,2025-06-23,8,Problemas Pessoais
+78,421,2024-01-11,8,Licença
+79,246,2024-07-24,8,Problemas Pessoais
+80,208,2025-11-09,8,Consulta Médica
+81,237,2024-09-03,4,Consulta Médica
+82,22,2025-07-12,4,Problemas Pessoais
+83,185,2024-05-06,8,Problemas Pessoais
+84,468,2024-05-26,4,Licença
+85,242,2024-04-27,4,Problemas Pessoais
+86,363,2025-01-16,4,Licença
+87,283,2025-02-15,4,Consulta Médica
+88,41,2025-10-25,8,Doença
+89,336,2025-08-06,8,Doença
+90,162,2024-12-28,8,Doença
+91,160,2025-05-23,8,Doença
+92,474,2024-05-16,8,Consulta Médica
+93,89,2024-06-23,8,Doença
+94,322,2024-10-15,8,Problemas Pessoais
+95,12,2025-04-25,8,Problemas Pessoais
+96,424,2024-01-19,4,Doença
+97,73,2024-07-13,8,Problemas Pessoais
+98,76,2024-11-25,8,Licença
+99,346,2024-06-23,8,Consulta Médica
+100,201,2025-03-24,8,Doença
+101,10,2024-12-19,8,Doença
+102,352,2025-05-13,8,Consulta Médica
+103,226,2024-05-20,4,Problemas Pessoais
+104,176,2024-04-02,8,Consulta Médica
+105,276,2024-08-26,8,Consulta Médica
+106,39,2024-07-23,8,Problemas Pessoais
+107,60,2025-07-13,4,Consulta Médica
+108,66,2025-03-08,8,Problemas Pessoais
+109,321,2024-09-01,8,Problemas Pessoais
+110,435,2024-11-12,4,Consulta Médica
+111,124,2024-10-21,8,Licença
+112,164,2025-10-01,4,Problemas Pessoais
+113,408,2024-10-08,8,Consulta Médica
+114,411,2024-01-17,8,Problemas Pessoais
+115,386,2024-03-11,8,Licença
+116,159,2024-09-25,4,Licença
+117,57,2024-11-20,8,Doença
+118,78,2024-10-31,4,Problemas Pessoais
+119,194,2025-03-26,4,Problemas Pessoais
+120,285,2024-01-07,4,Consulta Médica
+121,15,2024-11-09,4,Problemas Pessoais
+122,12,2024-04-12,8,Doença
+123,101,2024-07-11,4,Licença
+124,156,2025-07-27,8,Licença
+125,340,2025-06-12,8,Doença
+126,125,2024-06-19,8,Problemas Pessoais
+127,359,2025-06-20,8,Problemas Pessoais
+128,280,2024-09-07,8,Doença
+129,405,2025-01-21,8,Consulta Médica
+130,394,2024-07-25,4,Licença
+131,110,2025-06-24,8,Doença
+132,334,2025-09-20,4,Doença
+133,357,2025-02-19,4,Problemas Pessoais
+134,146,2025-01-14,4,Licença
+135,216,2024-05-23,8,Problemas Pessoais
+136,398,2024-01-25,4,Doença
+137,162,2025-10-29,8,Consulta Médica
+138,128,2024-03-13,4,Licença
+139,314,2025-09-23,8,Doença
+140,332,2024-04-02,4,Doença
+141,150,2025-05-19,4,Consulta Médica
+142,454,2025-08-20,8,Doença
+143,36,2024-12-01,4,Doença
+144,173,2025-02-28,8,Licença
+145,420,2025-05-13,8,Licença
+146,22,2024-12-29,4,Licença
+147,206,2025-09-21,8,Problemas Pessoais
+148,127,2024-07-17,4,Consulta Médica
+149,336,2025-12-18,8,Licença
+150,445,2025-02-16,4,Problemas Pessoais
+151,356,2024-12-04,8,Problemas Pessoais
+152,440,2025-10-20,4,Consulta Médica
+153,217,2025-03-04,8,Consulta Médica
+154,96,2024-05-18,8,Doença
+155,417,2025-11-23,8,Problemas Pessoais
+156,429,2025-06-25,8,Licença
+157,164,2024-02-26,8,Consulta Médica
+158,148,2024-08-19,8,Problemas Pessoais
+159,18,2025-10-19,4,Licença
+160,294,2025-03-10,4,Problemas Pessoais
+161,195,2025-01-18,4,Consulta Médica
+162,151,2025-07-13,8,Doença
+163,480,2024-07-12,8,Problemas Pessoais
+164,365,2025-10-09,8,Licença
+165,123,2025-06-17,4,Consulta Médica
+166,400,2025-06-01,8,Doença
+167,187,2025-12-16,4,Licença
+168,453,2024-07-03,8,Licença
+169,452,2024-10-18,8,Licença
+170,149,2024-11-30,8,Problemas Pessoais
+171,104,2024-04-25,8,Consulta Médica
+172,243,2024-02-18,8,Licença
+173,462,2025-11-15,4,Problemas Pessoais
+174,231,2024-03-22,8,Consulta Médica
+175,479,2024-11-28,4,Consulta Médica
+176,206,2025-07-10,8,Problemas Pessoais
+177,198,2024-11-30,8,Problemas Pessoais
+178,396,2025-06-15,4,Licença
+179,400,2024-08-08,4,Consulta Médica
+180,337,2025-09-26,8,Doença
+181,493,2024-11-18,8,Problemas Pessoais
+182,87,2024-01-03,8,Consulta Médica
+183,142,2025-11-24,4,Consulta Médica
+184,317,2024-07-24,4,Licença
+185,199,2024-02-09,8,Doença
+186,46,2024-02-28,8,Licença
+187,288,2025-07-27,4,Doença
+188,15,2025-10-05,8,Doença
+189,44,2025-05-21,4,Problemas Pessoais
+190,401,2025-07-25,8,Consulta Médica
+191,169,2024-05-01,8,Consulta Médica
+192,310,2025-04-23,8,Consulta Médica
+193,495,2025-09-10,8,Doença
+194,44,2024-04-05,8,Consulta Médica
+195,98,2025-02-17,4,Problemas Pessoais
+196,261,2024-08-22,4,Doença
+197,109,2024-03-02,8,Doença
+198,283,2024-09-12,8,Doença
+199,372,2025-07-14,8,Doença
+200,343,2024-12-13,8,Problemas Pessoais
+201,104,2025-11-01,8,Consulta Médica
+202,256,2024-05-03,4,Problemas Pessoais
+203,379,2025-04-26,8,Consulta Médica
+204,206,2024-11-12,8,Problemas Pessoais
+205,335,2025-05-18,8,Licença
+206,43,2025-12-19,8,Licença
+207,353,2024-02-17,4,Licença
+208,245,2025-02-12,8,Licença
+209,287,2024-05-15,8,Doença
+210,355,2024-07-19,8,Doença
+211,273,2024-09-06,4,Problemas Pessoais
+212,476,2024-11-09,4,Problemas Pessoais
+213,83,2025-01-02,4,Licença
+214,110,2025-03-04,4,Consulta Médica
+215,438,2025-04-24,8,Licença
+216,190,2024-11-09,8,Problemas Pessoais
+217,471,2025-05-14,8,Licença
+218,288,2025-12-21,8,Problemas Pessoais
+219,424,2024-12-20,8,Licença
+220,397,2025-04-29,4,Consulta Médica
+221,251,2024-07-29,8,Licença
+222,212,2025-12-04,8,Consulta Médica
+223,291,2024-02-13,4,Consulta Médica
+224,133,2025-06-24,4,Problemas Pessoais
+225,201,2025-07-24,8,Consulta Médica
+226,285,2025-08-05,8,Doença
+227,326,2024-04-01,8,Doença
+228,409,2024-09-21,4,Doença
+229,95,2024-08-07,8,Problemas Pessoais
+230,278,2025-03-17,8,Doença
+231,450,2025-02-04,4,Problemas Pessoais
+232,429,2025-02-03,8,Problemas Pessoais
+233,325,2025-12-27,4,Doença
+234,219,2025-07-29,8,Consulta Médica
+235,89,2025-05-04,4,Licença
+236,72,2025-04-29,4,Problemas Pessoais
+237,247,2025-04-14,4,Doença
+238,129,2025-07-27,4,Problemas Pessoais
+239,212,2025-11-12,8,Consulta Médica
+240,428,2025-03-20,4,Consulta Médica
+241,343,2024-09-25,8,Doença
+242,96,2024-09-23,4,Problemas Pessoais
+243,75,2024-02-23,8,Licença
+244,423,2025-06-11,8,Licença
+245,495,2025-06-03,4,Problemas Pessoais
+246,54,2025-09-07,8,Problemas Pessoais
+247,344,2024-02-28,4,Problemas Pessoais
+248,459,2024-02-09,8,Doença
+249,413,2024-08-24,8,Consulta Médica
+250,54,2025-01-20,8,Licença
+251,218,2025-08-28,8,Doença
+252,16,2025-12-16,8,Problemas Pessoais
+253,99,2025-10-11,4,Problemas Pessoais
+254,20,2024-10-26,4,Consulta Médica
+255,46,2025-01-29,8,Problemas Pessoais
+256,451,2024-07-25,8,Doença
+257,193,2024-12-01,8,Doença
+258,383,2025-08-15,8,Consulta Médica
+259,58,2025-12-30,8,Doença
+260,437,2025-05-28,8,Licença
+261,111,2024-06-26,8,Doença
+262,129,2025-01-30,8,Doença
+263,337,2025-01-05,8,Doença
+264,194,2025-10-19,4,Licença
+265,413,2024-11-13,4,Problemas Pessoais
+266,340,2025-01-03,8,Doença
+267,326,2025-01-18,4,Consulta Médica
+268,8,2024-03-02,8,Licença
+269,29,2025-05-19,8,Consulta Médica
+270,112,2024-08-26,8,Doença
+271,435,2024-07-13,8,Consulta Médica
+272,161,2025-11-08,8,Doença
+273,131,2024-08-09,8,Licença
+274,188,2024-03-01,8,Consulta Médica
+275,163,2024-05-08,8,Consulta Médica
+276,197,2025-11-15,8,Doença
+277,475,2024-06-04,8,Doença
+278,364,2025-01-12,8,Problemas Pessoais
+279,204,2025-09-13,8,Doença
+280,212,2025-08-08,8,Doença
+281,109,2025-03-12,8,Problemas Pessoais
+282,276,2024-07-25,8,Doença
+283,73,2025-01-22,8,Doença
+284,167,2025-04-24,8,Problemas Pessoais
+285,260,2024-12-05,8,Licença
+286,243,2024-12-05,8,Licença
+287,275,2024-07-22,8,Doença
+288,102,2024-06-09,8,Doença
+289,475,2025-06-23,8,Problemas Pessoais
+290,173,2025-01-26,8,Problemas Pessoais
+291,171,2025-11-07,4,Licença
+292,141,2025-07-28,8,Consulta Médica
+293,397,2025-06-17,8,Doença
+294,188,2024-03-10,8,Consulta Médica
+295,441,2025-02-08,8,Consulta Médica
+296,86,2025-08-30,8,Problemas Pessoais
+297,476,2025-11-05,8,Doença
+298,52,2025-08-13,4,Doença
+299,111,2025-05-31,8,Problemas Pessoais
+300,437,2024-04-29,8,Consulta Médica
+301,365,2025-11-20,4,Problemas Pessoais
+302,342,2025-11-18,4,Licença
+303,43,2024-08-04,8,Doença
+304,211,2024-02-25,8,Licença
+305,456,2024-12-31,4,Problemas Pessoais
+306,500,2025-11-29,8,Doença
+307,200,2025-05-18,8,Licença
+308,298,2025-03-30,8,Licença
+309,346,2024-04-13,8,Consulta Médica
+310,240,2024-03-17,8,Doença
+311,115,2024-08-17,8,Licença
+312,26,2024-09-14,8,Licença
+313,407,2024-09-20,8,Consulta Médica
+314,299,2024-11-26,4,Licença
+315,77,2024-06-30,8,Licença
+316,412,2025-07-03,4,Licença
+317,137,2025-11-18,4,Consulta Médica
+318,20,2024-01-27,4,Licença
+319,440,2024-10-02,4,Licença
+320,211,2025-10-13,8,Doença
+321,240,2024-10-25,4,Doença
+322,39,2024-03-31,8,Consulta Médica
+323,435,2025-04-24,8,Problemas Pessoais
+324,268,2025-07-26,8,Doença
+325,207,2025-04-02,4,Consulta Médica
+326,479,2025-03-26,8,Licença
+327,439,2024-12-30,8,Licença
+328,462,2025-11-05,8,Consulta Médica
+329,267,2024-12-16,8,Licença
+330,154,2025-10-16,8,Licença
+331,42,2025-02-03,8,Problemas Pessoais
+332,411,2024-09-09,8,Licença
+333,11,2025-04-03,8,Doença
+334,294,2025-11-29,4,Licença
+335,98,2025-05-13,8,Consulta Médica
+336,427,2025-05-22,4,Problemas Pessoais
+337,275,2024-10-30,8,Licença
+338,448,2025-05-15,8,Consulta Médica
+339,390,2025-08-20,8,Doença
+340,430,2024-06-14,8,Licença
+341,372,2025-02-18,8,Problemas Pessoais
+342,230,2025-04-06,8,Licença
+343,369,2024-04-23,8,Consulta Médica
+344,426,2025-03-08,8,Problemas Pessoais
+345,220,2024-12-21,4,Licença
+346,65,2025-11-25,8,Doença
+347,355,2024-07-25,8,Problemas Pessoais
+348,232,2024-08-22,4,Doença
+349,328,2025-03-17,8,Consulta Médica
+350,443,2024-12-20,4,Licença
+351,52,2025-05-29,8,Doença
+352,374,2024-07-26,8,Consulta Médica
+353,431,2025-12-09,8,Licença
+354,376,2024-05-04,4,Consulta Médica
+355,263,2024-05-17,4,Doença
+356,267,2024-12-04,4,Consulta Médica
+357,359,2025-06-20,8,Problemas Pessoais
+358,317,2024-03-08,8,Licença
+359,324,2025-07-26,8,Consulta Médica
+360,409,2025-06-24,8,Doença
+361,396,2025-01-17,8,Licença
+362,154,2024-01-19,8,Problemas Pessoais
+363,358,2025-11-13,8,Licença
+364,366,2025-03-25,8,Problemas Pessoais
+365,140,2024-03-14,8,Licença
+366,427,2025-07-26,4,Consulta Médica
+367,51,2025-10-26,4,Consulta Médica
+368,117,2024-10-02,8,Doença
+369,421,2024-02-17,4,Problemas Pessoais
+370,46,2024-07-29,8,Doença
+371,309,2025-10-12,8,Consulta Médica
+372,88,2025-09-13,8,Problemas Pessoais
+373,208,2025-11-25,8,Doença
+374,377,2025-06-23,4,Doença
+375,269,2025-12-09,8,Doença
+376,89,2024-07-09,8,Doença
+377,381,2024-11-10,8,Doença
+378,118,2025-07-16,8,Problemas Pessoais
+379,54,2025-10-22,8,Doença
+380,441,2025-07-15,8,Problemas Pessoais
+381,116,2024-04-22,8,Doença
+382,118,2024-06-18,4,Consulta Médica
+383,260,2025-04-12,8,Consulta Médica
+384,75,2025-11-08,8,Doença
+385,480,2024-01-14,8,Licença
+386,305,2025-12-15,8,Consulta Médica
+387,7,2024-10-14,8,Problemas Pessoais
+388,366,2024-07-07,8,Doença
+389,122,2024-06-03,8,Problemas Pessoais
+390,11,2025-07-20,4,Licença
+391,348,2025-11-24,8,Doença
+392,438,2025-12-22,4,Consulta Médica
+393,489,2025-04-15,4,Problemas Pessoais
+394,215,2024-03-15,8,Consulta Médica
+395,429,2024-10-03,8,Consulta Médica
+396,279,2025-10-06,8,Doença
+397,498,2024-12-08,4,Problemas Pessoais
+398,28,2025-02-28,8,Licença
+399,235,2025-07-24,8,Consulta Médica
+400,367,2025-05-25,8,Doença
+401,313,2024-06-30,8,Doença
+402,26,2025-04-02,8,Licença
+403,409,2024-03-04,8,Doença
+404,54,2024-09-16,8,Consulta Médica
+405,29,2024-07-11,4,Doença
+406,467,2025-10-16,8,Problemas Pessoais
+407,353,2025-09-07,8,Problemas Pessoais
+408,164,2025-02-09,8,Consulta Médica
+409,270,2025-12-26,4,Problemas Pessoais
+410,334,2025-12-21,8,Licença
+411,35,2024-04-02,8,Doença
+412,286,2025-03-05,8,Consulta Médica
+413,348,2025-10-15,4,Licença
+414,273,2025-03-09,8,Doença
+415,451,2025-02-07,8,Licença
+416,208,2025-03-09,8,Consulta Médica
+417,238,2024-04-21,4,Consulta Médica
+418,414,2025-01-09,8,Licença
+419,500,2024-02-28,8,Doença
+420,93,2024-02-12,4,Problemas Pessoais
+421,173,2024-07-25,4,Problemas Pessoais
+422,79,2024-10-22,8,Licença
+423,110,2024-04-27,4,Consulta Médica
+424,217,2025-06-15,4,Doença
+425,435,2024-08-09,8,Doença
+426,358,2024-06-14,8,Consulta Médica
+427,106,2025-10-04,4,Problemas Pessoais
+428,47,2024-06-04,8,Doença
+429,181,2024-07-02,4,Licença
+430,64,2024-03-30,4,Problemas Pessoais
+431,246,2024-04-03,4,Licença
+432,244,2024-01-13,8,Problemas Pessoais
+433,422,2025-03-13,4,Consulta Médica
+434,320,2025-06-21,4,Licença
+435,87,2025-08-09,8,Licença
+436,217,2024-05-29,8,Consulta Médica
+437,490,2025-10-21,4,Licença
+438,7,2024-01-08,8,Problemas Pessoais
+439,278,2024-01-29,4,Doença
+440,337,2024-10-22,8,Doença
+441,210,2025-12-21,8,Consulta Médica
+442,497,2025-10-01,8,Problemas Pessoais
+443,169,2024-12-05,8,Licença
+444,330,2025-09-19,8,Licença
+445,138,2025-03-14,4,Doença
+446,441,2024-05-23,8,Licença
+447,391,2025-06-02,4,Doença
+448,496,2024-02-14,8,Consulta Médica
+449,381,2024-08-26,8,Licença
+450,306,2024-06-03,8,Problemas Pessoais
+451,230,2024-06-29,8,Licença
+452,475,2024-08-02,8,Doença
+453,308,2024-03-28,8,Consulta Médica
+454,161,2024-09-12,4,Doença
+455,1,2025-05-25,8,Licença
+456,236,2024-03-13,8,Doença
+457,437,2024-06-27,8,Doença
+458,188,2024-07-30,8,Consulta Médica
+459,418,2024-08-21,4,Problemas Pessoais
+460,4,2025-04-09,8,Licença
+461,401,2024-08-10,8,Consulta Médica
+462,132,2025-09-22,4,Problemas Pessoais
+463,427,2024-09-20,8,Doença
+464,218,2024-07-25,8,Problemas Pessoais
+465,260,2025-08-29,8,Doença
+466,1,2024-12-31,8,Doença
+467,71,2024-10-02,4,Consulta Médica
+468,478,2025-01-14,8,Doença
+469,178,2024-11-04,8,Consulta Médica
+470,457,2025-09-22,8,Problemas Pessoais
+471,189,2024-09-24,8,Problemas Pessoais
+472,291,2024-03-04,4,Doença
+473,8,2024-12-15,4,Consulta Médica
+474,253,2025-05-08,8,Doença
+475,408,2025-06-06,8,Consulta Médica
+476,467,2024-04-07,8,Consulta Médica
+477,292,2024-03-11,4,Consulta Médica
+478,434,2024-12-29,8,Problemas Pessoais
+479,244,2025-07-23,8,Consulta Médica
+480,123,2024-10-02,8,Problemas Pessoais
+481,299,2024-02-19,4,Consulta Médica
+482,283,2024-12-23,8,Problemas Pessoais
+483,32,2025-12-28,8,Licença
+484,334,2025-07-17,8,Problemas Pessoais
+485,377,2025-04-29,8,Problemas Pessoais
+486,146,2024-03-24,8,Doença
+487,156,2025-09-29,8,Consulta Médica
+488,413,2025-08-06,8,Licença
+489,16,2024-10-22,4,Doença
+490,355,2024-08-23,8,Consulta Médica
+491,47,2024-02-25,4,Licença
+492,251,2024-12-25,8,Licença
+493,187,2024-04-19,8,Licença
+494,31,2024-07-10,8,Consulta Médica
+495,260,2024-04-02,8,Licença
+496,421,2025-07-21,4,Licença
+497,17,2024-02-29,8,Doença
+498,39,2025-10-11,8,Problemas Pessoais
+499,304,2024-02-08,4,Consulta Médica
+500,430,2025-06-23,8,Problemas Pessoais
+501,474,2024-02-18,4,Doença
+502,432,2025-02-23,8,Problemas Pessoais
+503,39,2025-09-28,8,Licença
+504,489,2024-01-13,4,Licença
+505,132,2024-02-05,8,Consulta Médica
+506,30,2024-04-10,4,Consulta Médica
+507,158,2024-03-26,4,Consulta Médica
+508,278,2025-05-30,4,Doença
+509,203,2024-08-10,8,Consulta Médica
+510,66,2024-12-03,8,Doença
+511,108,2024-06-14,8,Licença
+512,268,2025-01-17,4,Problemas Pessoais
+513,222,2025-01-10,4,Licença
+514,292,2025-04-15,8,Licença
+515,18,2025-10-03,8,Licença
+516,90,2024-01-31,8,Consulta Médica
+517,181,2025-01-09,4,Consulta Médica
+518,255,2024-01-11,8,Consulta Médica
+519,455,2024-10-28,8,Problemas Pessoais
+520,253,2024-04-05,8,Consulta Médica
+521,257,2024-07-08,8,Doença
+522,383,2025-03-28,4,Licença
+523,442,2024-07-10,8,Problemas Pessoais
+524,346,2025-04-30,8,Problemas Pessoais
+525,87,2024-09-22,8,Problemas Pessoais
+526,90,2025-02-27,8,Problemas Pessoais
+527,237,2024-05-07,8,Problemas Pessoais
+528,390,2024-08-25,8,Doença
+529,70,2024-12-20,4,Licença
+530,44,2024-04-21,8,Problemas Pessoais
+531,200,2025-03-21,8,Licença
+532,152,2024-12-08,8,Consulta Médica
+533,86,2024-05-24,8,Problemas Pessoais
+534,19,2024-03-05,4,Problemas Pessoais
+535,101,2024-09-03,8,Licença
+536,402,2025-05-04,8,Problemas Pessoais
+537,95,2025-03-14,4,Problemas Pessoais
+538,254,2024-04-15,8,Problemas Pessoais
+539,357,2024-06-29,4,Doença
+540,30,2024-07-02,8,Doença
+541,249,2024-08-13,8,Problemas Pessoais
+542,426,2024-03-29,8,Doença
+543,33,2025-11-18,8,Consulta Médica
+544,458,2025-06-13,8,Problemas Pessoais
+545,229,2025-01-05,8,Consulta Médica
+546,12,2025-02-02,8,Licença
+547,118,2024-04-15,8,Consulta Médica
+548,350,2024-09-27,8,Licença
+549,155,2025-05-17,4,Problemas Pessoais
+550,423,2025-11-09,8,Licença
+551,393,2025-06-08,4,Licença
+552,246,2024-02-01,8,Consulta Médica
+553,405,2025-01-27,8,Consulta Médica
+554,332,2024-02-09,8,Consulta Médica
+555,247,2025-10-21,8,Problemas Pessoais
+556,29,2024-08-05,8,Problemas Pessoais
+557,161,2024-03-22,8,Consulta Médica
+558,235,2025-12-20,4,Problemas Pessoais
+559,190,2024-07-19,4,Problemas Pessoais
+560,117,2025-03-22,4,Licença
+561,271,2025-03-03,8,Licença
+562,258,2024-02-07,4,Consulta Médica
+563,180,2024-07-29,8,Problemas Pessoais
+564,487,2025-03-19,8,Licença
+565,373,2024-11-22,4,Doença
+566,172,2024-08-14,8,Problemas Pessoais
+567,438,2024-02-17,8,Doença
+568,274,2024-01-18,4,Consulta Médica
+569,259,2025-03-14,8,Problemas Pessoais
+570,135,2025-12-08,8,Consulta Médica
+571,171,2024-07-05,8,Consulta Médica
+572,210,2024-12-10,8,Consulta Médica
+573,236,2024-08-11,8,Consulta Médica
+574,422,2025-05-02,8,Consulta Médica
+575,421,2024-08-16,4,Problemas Pessoais
+576,186,2025-01-24,8,Doença
+577,417,2025-08-11,8,Problemas Pessoais
+578,364,2024-07-06,4,Problemas Pessoais
+579,443,2024-09-26,8,Problemas Pessoais
+580,95,2025-08-29,8,Licença
+581,378,2024-11-05,8,Licença
+582,11,2024-05-11,8,Problemas Pessoais
+583,68,2025-07-04,8,Doença
+584,379,2024-03-12,8,Problemas Pessoais
+585,210,2025-11-02,8,Consulta Médica
+586,196,2024-07-05,8,Licença
+587,369,2025-04-30,8,Licença
+588,98,2024-07-09,8,Problemas Pessoais
+589,93,2025-02-25,8,Problemas Pessoais
+590,472,2024-04-29,8,Doença
+591,22,2024-08-07,8,Doença
+592,450,2024-02-22,8,Consulta Médica
+593,172,2025-03-26,4,Problemas Pessoais
+594,383,2025-02-15,8,Problemas Pessoais
+595,134,2025-10-04,8,Problemas Pessoais
+596,426,2024-08-24,4,Licença
+597,25,2025-12-20,8,Consulta Médica
+598,185,2025-02-09,8,Doença
+599,85,2025-08-30,8,Licença
+600,55,2025-02-25,4,Licença
+601,251,2025-12-12,8,Licença
+602,144,2024-09-03,8,Licença
+603,351,2024-03-12,4,Consulta Médica
+604,398,2024-07-03,8,Problemas Pessoais
+605,167,2024-01-06,8,Doença
+606,412,2024-07-24,4,Doença
+607,224,2025-06-27,8,Licença
+608,220,2025-09-02,8,Licença
+609,179,2025-01-21,8,Consulta Médica
+610,119,2025-11-29,4,Licença
+611,433,2024-03-16,4,Doença
+612,265,2024-06-25,4,Doença
+613,442,2024-12-14,8,Problemas Pessoais
+614,429,2024-09-11,8,Problemas Pessoais
+615,150,2025-12-02,4,Doença
+616,416,2024-11-03,4,Doença
+617,453,2024-12-10,8,Consulta Médica
+618,215,2024-05-06,8,Consulta Médica
+619,197,2024-10-13,8,Doença
+620,42,2025-12-25,8,Licença
+621,53,2025-08-18,8,Problemas Pessoais
+622,480,2025-05-01,4,Doença
+623,443,2025-01-17,8,Licença
+624,330,2025-02-09,8,Doença
+625,251,2025-01-22,8,Problemas Pessoais
+626,295,2025-06-08,8,Problemas Pessoais
+627,378,2025-07-10,4,Consulta Médica
+628,271,2025-09-30,4,Consulta Médica
+629,455,2025-09-17,8,Consulta Médica
+630,413,2024-10-02,4,Consulta Médica
+631,123,2025-05-14,4,Problemas Pessoais
+632,367,2025-12-17,4,Licença
+633,387,2024-12-02,4,Licença
+634,339,2025-04-25,8,Licença
+635,266,2024-09-29,4,Doença
+636,348,2024-02-27,8,Consulta Médica
+637,29,2024-11-23,8,Consulta Médica
+638,463,2024-04-18,8,Problemas Pessoais
+639,35,2024-10-05,4,Problemas Pessoais
+640,6,2025-11-16,8,Doença
+641,396,2024-11-23,4,Doença
+642,111,2024-11-10,8,Licença
+643,294,2025-04-18,8,Problemas Pessoais
+644,77,2024-04-20,8,Consulta Médica
+645,349,2025-11-29,8,Licença
+646,147,2024-08-16,8,Consulta Médica
+647,67,2025-05-11,8,Licença
+648,392,2024-06-04,8,Consulta Médica
+649,8,2025-04-17,8,Doença
+650,122,2025-12-01,8,Licença
+651,340,2024-09-28,8,Consulta Médica
+652,175,2024-01-02,8,Consulta Médica
+653,388,2025-12-22,8,Problemas Pessoais
+654,179,2025-05-25,8,Licença
+655,85,2024-10-12,8,Consulta Médica
+656,451,2024-01-13,4,Problemas Pessoais
+657,45,2025-08-30,8,Consulta Médica
+658,136,2025-05-12,4,Licença
+659,343,2024-08-25,8,Doença
+660,16,2024-04-03,4,Licença
+661,333,2024-12-03,4,Licença
+662,195,2024-06-19,8,Consulta Médica
+663,496,2025-08-28,8,Consulta Médica
+664,9,2025-10-22,4,Licença
+665,316,2025-09-15,8,Problemas Pessoais
+666,334,2025-07-20,4,Problemas Pessoais
+667,333,2025-04-11,4,Problemas Pessoais
+668,327,2025-09-19,8,Consulta Médica
+669,15,2024-05-22,8,Consulta Médica
+670,327,2024-07-19,4,Licença
+671,102,2024-06-28,8,Doença
+672,226,2025-12-14,4,Consulta Médica
+673,425,2024-12-29,8,Licença
+674,278,2025-04-23,8,Licença
+675,408,2025-07-18,8,Doença
+676,113,2025-04-15,8,Problemas Pessoais
+677,485,2025-01-18,8,Licença
+678,428,2025-11-22,8,Licença
+679,1,2025-02-20,4,Licença
+680,266,2024-11-03,8,Problemas Pessoais
+681,491,2025-10-10,8,Problemas Pessoais
+682,208,2025-11-24,4,Doença
+683,110,2025-01-01,4,Consulta Médica
+684,200,2024-01-01,8,Problemas Pessoais
+685,440,2024-02-13,8,Consulta Médica
+686,369,2024-04-07,4,Consulta Médica
+687,473,2025-12-20,4,Problemas Pessoais
+688,306,2024-09-21,8,Licença
+689,12,2024-05-19,8,Doença
+690,345,2025-04-25,8,Consulta Médica
+691,465,2024-08-24,8,Licença
+692,188,2024-03-12,4,Problemas Pessoais
+693,154,2025-10-28,8,Consulta Médica
+694,494,2024-07-08,8,Consulta Médica
+695,368,2024-09-24,8,Consulta Médica
+696,334,2024-11-16,4,Licença
+697,425,2024-04-16,8,Licença
+698,420,2024-08-19,8,Licença
+699,377,2024-02-11,8,Consulta Médica
+700,279,2025-12-02,8,Consulta Médica
+701,171,2024-05-18,4,Doença
+702,134,2025-09-06,8,Doença
+703,495,2025-11-13,8,Licença
+704,453,2024-09-29,8,Licença
+705,427,2025-04-25,8,Problemas Pessoais
+706,25,2025-02-19,8,Licença
+707,18,2025-05-20,8,Doença
+708,190,2025-12-25,8,Doença
+709,141,2025-02-27,4,Doença
+710,43,2025-02-10,8,Consulta Médica
+711,334,2025-07-21,8,Consulta Médica
+712,284,2025-01-24,8,Licença
+713,146,2024-12-07,8,Problemas Pessoais
+714,315,2025-09-05,8,Problemas Pessoais
+715,444,2025-05-07,8,Problemas Pessoais
+716,319,2024-07-10,8,Consulta Médica
+717,441,2025-05-13,8,Doença
+718,92,2025-12-12,8,Doença
+719,179,2024-08-20,4,Consulta Médica
+720,56,2024-08-14,4,Problemas Pessoais
+721,155,2025-01-05,8,Problemas Pessoais
+722,160,2024-05-18,4,Licença
+723,111,2024-05-28,4,Licença
+724,137,2024-04-24,8,Problemas Pessoais
+725,232,2025-03-25,8,Consulta Médica
+726,480,2024-03-03,8,Problemas Pessoais
+727,468,2024-04-13,8,Licença
+728,220,2025-10-29,8,Problemas Pessoais
+729,481,2024-09-29,8,Consulta Médica
+730,68,2024-01-06,4,Doença
+731,302,2024-05-26,8,Consulta Médica
+732,249,2024-07-02,8,Consulta Médica
+733,482,2024-01-28,8,Licença
+734,496,2025-07-03,8,Consulta Médica
+735,323,2024-04-28,8,Consulta Médica
+736,410,2024-10-19,4,Licença
+737,392,2025-01-05,8,Licença
+738,6,2024-08-31,8,Doença
+739,464,2025-08-02,8,Problemas Pessoais
+740,280,2025-12-26,4,Consulta Médica
+741,432,2024-08-05,8,Licença
+742,487,2024-06-25,8,Doença
+743,94,2024-10-25,4,Problemas Pessoais
+744,429,2025-11-06,8,Licença
+745,269,2024-02-27,8,Problemas Pessoais
+746,197,2024-09-25,8,Problemas Pessoais
+747,25,2024-11-03,8,Consulta Médica
+748,148,2025-07-23,8,Consulta Médica
+749,118,2024-10-14,8,Licença
+750,338,2024-04-14,8,Problemas Pessoais
+751,367,2024-08-15,4,Licença
+752,338,2024-09-03,8,Licença
+753,66,2025-11-30,4,Problemas Pessoais
+754,458,2025-05-08,4,Licença
+755,301,2024-03-23,8,Problemas Pessoais
+756,370,2024-07-04,8,Problemas Pessoais
+757,175,2024-09-08,8,Problemas Pessoais
+758,319,2024-12-20,8,Problemas Pessoais
+759,76,2025-11-26,8,Doença
+760,495,2024-07-28,4,Problemas Pessoais
+761,461,2025-08-31,8,Consulta Médica
+762,114,2025-03-22,8,Consulta Médica
+763,111,2025-04-04,8,Consulta Médica
+764,249,2025-04-16,8,Problemas Pessoais
+765,439,2025-12-20,8,Consulta Médica
+766,203,2025-01-04,8,Doença
+767,147,2025-05-06,4,Licença
+768,35,2024-05-16,8,Problemas Pessoais
+769,487,2025-01-01,8,Consulta Médica
+770,309,2024-07-02,8,Doença
+771,26,2025-08-10,4,Licença
+772,238,2024-10-13,8,Doença
+773,14,2025-04-16,4,Consulta Médica
+774,374,2025-01-09,8,Doença
+775,45,2025-10-15,8,Licença
+776,428,2025-06-20,4,Consulta Médica
+777,216,2025-05-25,8,Licença
+778,233,2025-08-01,4,Doença
+779,193,2024-09-06,8,Problemas Pessoais
+780,51,2025-05-24,8,Problemas Pessoais
+781,427,2025-09-21,4,Problemas Pessoais
+782,375,2024-03-13,4,Problemas Pessoais
+783,214,2024-10-08,8,Licença
+784,151,2024-12-25,4,Problemas Pessoais
+785,440,2024-01-10,4,Licença
+786,275,2024-07-29,8,Consulta Médica
+787,338,2024-05-31,8,Problemas Pessoais
+788,76,2024-01-05,8,Licença
+789,439,2024-07-13,4,Problemas Pessoais
+790,220,2024-10-09,4,Problemas Pessoais
+791,348,2025-04-08,4,Problemas Pessoais
+792,444,2024-04-22,4,Licença
+793,187,2024-09-27,8,Doença
+794,289,2024-06-11,8,Problemas Pessoais
+795,403,2025-04-04,4,Problemas Pessoais
+796,28,2024-04-14,8,Consulta Médica
+797,379,2025-11-23,8,Doença
+798,180,2025-07-09,8,Licença
+799,253,2024-10-08,8,Consulta Médica
+800,126,2025-11-17,8,Problemas Pessoais
+801,177,2024-06-10,4,Consulta Médica
+802,37,2024-12-16,4,Consulta Médica
+803,410,2025-03-09,8,Problemas Pessoais
+804,99,2024-05-19,4,Doença
+805,98,2025-04-15,8,Doença
+806,127,2024-05-11,8,Consulta Médica
+807,483,2024-03-27,8,Problemas Pessoais
+808,168,2025-11-18,8,Licença
+809,80,2024-07-01,8,Consulta Médica
+810,294,2025-01-02,8,Licença
+811,333,2024-05-08,8,Consulta Médica
+812,126,2024-09-02,4,Consulta Médica
+813,343,2025-08-23,8,Problemas Pessoais
+814,310,2025-07-31,4,Problemas Pessoais
+815,150,2025-10-31,8,Licença
+816,16,2025-01-12,8,Licença
+817,28,2024-05-28,8,Doença
+818,496,2025-03-08,8,Problemas Pessoais
+819,419,2025-09-19,8,Consulta Médica
+820,444,2025-12-26,8,Consulta Médica
+821,173,2025-04-13,4,Doença
+822,46,2025-03-21,8,Problemas Pessoais
+823,328,2025-04-25,8,Consulta Médica
+824,236,2024-10-20,8,Doença
+825,439,2024-05-22,8,Doença
+826,214,2024-09-06,4,Consulta Médica
+827,85,2024-10-28,8,Consulta Médica
+828,282,2024-01-25,8,Licença
+829,232,2024-03-10,8,Problemas Pessoais
+830,85,2025-09-16,4,Licença
+831,409,2024-04-21,8,Doença
+832,489,2024-12-29,8,Consulta Médica
+833,65,2024-10-29,4,Licença
+834,134,2025-04-15,8,Doença
+835,151,2024-03-31,8,Problemas Pessoais
+836,115,2025-06-13,8,Consulta Médica
+837,64,2025-10-22,8,Licença
+838,343,2025-12-26,8,Problemas Pessoais
+839,427,2025-10-24,8,Licença
+840,363,2024-07-10,8,Doença
+841,407,2025-07-05,4,Problemas Pessoais
+842,352,2024-08-29,4,Licença
+843,158,2024-05-17,8,Problemas Pessoais
+844,77,2024-12-10,8,Doença
+845,491,2024-06-28,4,Problemas Pessoais
+846,146,2025-12-12,8,Licença
+847,343,2025-05-17,8,Doença
+848,463,2024-07-21,4,Consulta Médica
+849,225,2025-07-26,8,Licença
+850,405,2024-07-10,4,Licença
+851,313,2024-01-05,8,Doença
+852,103,2024-08-24,8,Doença
+853,407,2025-11-23,8,Consulta Médica
+854,347,2024-11-06,4,Licença
+855,301,2025-07-02,8,Doença
+856,428,2024-02-25,8,Consulta Médica
+857,466,2025-03-18,8,Consulta Médica
+858,88,2024-08-24,4,Doença
+859,371,2024-07-15,8,Licença
+860,303,2025-08-07,8,Problemas Pessoais
+861,168,2025-07-24,8,Problemas Pessoais
+862,435,2025-05-28,8,Consulta Médica
+863,170,2025-03-24,8,Problemas Pessoais
+864,135,2024-12-25,8,Problemas Pessoais
+865,50,2025-11-30,4,Doença
+866,432,2024-01-30,8,Consulta Médica
+867,340,2024-04-17,4,Licença
+868,347,2025-08-24,8,Consulta Médica
+869,134,2025-12-17,4,Doença
+870,347,2025-03-20,8,Problemas Pessoais
+871,137,2025-03-13,4,Licença
+872,245,2025-08-28,8,Consulta Médica
+873,109,2025-04-01,8,Problemas Pessoais
+874,313,2025-09-06,4,Consulta Médica
+875,287,2025-11-28,4,Licença
+876,21,2025-11-26,4,Consulta Médica
+877,90,2025-05-09,8,Consulta Médica
+878,296,2025-11-04,8,Consulta Médica
+879,112,2024-09-03,8,Problemas Pessoais
+880,301,2025-06-26,4,Licença
+881,77,2025-07-17,8,Licença
+882,177,2025-08-10,8,Problemas Pessoais
+883,343,2025-03-14,8,Problemas Pessoais
+884,148,2024-10-04,8,Problemas Pessoais
+885,101,2025-07-05,4,Doença
+886,246,2025-09-04,4,Consulta Médica
+887,117,2024-04-20,4,Consulta Médica
+888,92,2025-01-19,4,Licença
+889,401,2024-07-09,4,Consulta Médica
+890,28,2025-05-04,4,Doença
+891,425,2025-11-24,8,Problemas Pessoais
+892,450,2025-03-01,8,Licença
+893,25,2025-02-08,8,Licença
+894,58,2024-11-30,8,Consulta Médica
+895,498,2024-07-27,8,Licença
+896,297,2024-01-22,4,Problemas Pessoais
+897,134,2025-11-08,8,Licença
+898,331,2025-09-02,4,Problemas Pessoais
+899,249,2024-07-26,8,Doença
+900,38,2024-01-08,8,Doença
+901,390,2025-12-02,8,Problemas Pessoais
+902,429,2025-11-17,4,Consulta Médica
+903,75,2025-06-12,4,Licença
+904,142,2025-08-24,8,Consulta Médica
+905,322,2025-10-14,4,Licença
+906,168,2025-10-18,8,Doença
+907,259,2024-06-14,8,Doença
+908,373,2025-05-10,8,Doença
+909,355,2025-08-12,8,Licença
+910,225,2025-03-04,8,Doença
+911,152,2024-06-11,4,Doença
+912,19,2024-12-31,8,Doença
+913,146,2025-06-09,8,Doença
+914,448,2024-08-26,8,Consulta Médica
+915,241,2024-03-12,4,Doença
+916,372,2025-03-20,8,Doença
+917,381,2025-10-16,8,Consulta Médica
+918,344,2025-05-23,8,Consulta Médica
+919,237,2024-09-25,8,Licença
+920,35,2025-02-18,4,Problemas Pessoais
+921,190,2024-09-01,8,Doença
+922,1,2025-11-05,8,Doença
+923,484,2024-02-29,8,Doença
+924,153,2024-01-06,8,Licença
+925,429,2025-12-09,4,Doença
+926,433,2025-07-23,8,Problemas Pessoais
+927,126,2025-02-10,8,Consulta Médica
+928,491,2024-08-04,8,Licença
+929,482,2024-01-26,8,Consulta Médica
+930,345,2024-01-05,8,Doença
+931,400,2025-06-15,8,Doença
+932,226,2025-01-24,4,Doença
+933,221,2025-12-10,8,Problemas Pessoais
+934,403,2025-07-24,8,Problemas Pessoais
+935,407,2025-03-23,8,Licença
+936,211,2024-05-25,8,Consulta Médica
+937,25,2025-01-22,8,Doença
+938,16,2024-09-05,8,Doença
+939,182,2025-06-09,8,Doença
+940,499,2025-04-06,4,Doença
+941,329,2024-01-13,8,Problemas Pessoais
+942,129,2025-01-18,4,Consulta Médica
+943,42,2025-07-09,8,Consulta Médica
+944,403,2025-02-02,4,Licença
+945,481,2024-01-19,8,Problemas Pessoais
+946,418,2025-07-28,8,Doença
+947,336,2025-05-05,8,Consulta Médica
+948,236,2025-02-22,8,Consulta Médica
+949,360,2024-12-02,8,Problemas Pessoais
+950,439,2025-02-22,4,Licença
+951,402,2025-09-03,8,Licença
+952,34,2025-11-05,8,Doença
+953,345,2024-05-01,4,Licença
+954,381,2025-03-07,8,Consulta Médica
+955,45,2024-02-13,8,Licença
+956,134,2024-11-12,8,Doença
+957,21,2025-01-15,4,Consulta Médica
+958,122,2024-05-24,8,Licença
+959,70,2024-11-22,4,Licença
+960,352,2024-12-28,4,Problemas Pessoais
+961,361,2024-02-19,8,Doença
+962,48,2024-03-05,8,Licença
+963,491,2024-12-20,8,Problemas Pessoais
+964,39,2024-06-12,4,Consulta Médica
+965,287,2024-05-20,8,Problemas Pessoais
+966,490,2024-05-07,8,Problemas Pessoais
+967,10,2025-02-01,8,Licença
+968,30,2025-04-07,8,Licença
+969,244,2024-07-05,4,Licença
+970,274,2025-12-20,8,Problemas Pessoais
+971,444,2024-07-08,8,Consulta Médica
+972,88,2025-01-22,4,Doença
+973,244,2025-03-04,4,Problemas Pessoais
+974,381,2024-10-10,4,Licença
+975,329,2024-08-24,4,Doença
+976,479,2024-07-12,8,Consulta Médica
+977,15,2024-10-13,8,Doença
+978,4,2024-05-15,4,Licença
+979,191,2024-06-19,4,Problemas Pessoais
+980,168,2024-06-07,8,Problemas Pessoais
+981,9,2024-07-19,8,Licença
+982,109,2025-05-01,8,Problemas Pessoais
+983,137,2025-07-10,8,Licença
+984,154,2025-08-05,8,Problemas Pessoais
+985,388,2025-05-18,4,Problemas Pessoais
+986,209,2025-01-05,4,Problemas Pessoais
+987,272,2024-04-12,8,Consulta Médica
+988,143,2024-05-04,8,Consulta Médica
+989,99,2024-11-08,8,Licença
+990,377,2025-04-02,8,Consulta Médica
+991,308,2024-08-17,8,Licença
+992,69,2025-10-19,4,Doença
+993,247,2024-07-15,8,Doença
+994,261,2025-02-26,4,Consulta Médica
+995,276,2025-07-25,4,Doença
+996,79,2025-09-01,8,Doença
+997,146,2024-06-19,8,Problemas Pessoais
+998,111,2025-01-16,8,Problemas Pessoais
+999,258,2024-06-21,8,Licença
+1000,93,2025-10-24,4,Doença
+1001,13,2025-03-28,4,Licença
+1002,260,2024-12-15,8,Licença
+1003,426,2025-09-25,8,Doença
+1004,109,2025-05-08,8,Consulta Médica
+1005,330,2025-09-11,8,Doença
+1006,189,2024-01-04,8,Problemas Pessoais
+1007,95,2024-04-02,8,Doença
+1008,105,2024-01-06,4,Consulta Médica
+1009,8,2024-10-14,8,Licença
+1010,67,2025-09-09,8,Licença
+1011,496,2024-05-25,4,Problemas Pessoais
+1012,191,2025-02-27,8,Problemas Pessoais
+1013,366,2025-08-30,8,Problemas Pessoais
+1014,256,2025-04-01,8,Licença
+1015,9,2024-07-20,4,Problemas Pessoais
+1016,478,2024-07-30,8,Doença
+1017,117,2024-01-06,4,Licença
+1018,267,2025-09-15,8,Consulta Médica
+1019,99,2025-01-10,4,Licença
+1020,485,2025-03-22,4,Doença
+1021,298,2024-04-15,8,Doença
+1022,397,2025-10-12,8,Problemas Pessoais
+1023,164,2025-02-04,4,Licença
+1024,376,2024-04-05,4,Licença
+1025,141,2025-01-22,8,Licença
+1026,268,2025-03-27,8,Consulta Médica
+1027,37,2025-02-19,8,Problemas Pessoais
+1028,74,2025-12-26,4,Doença
+1029,73,2025-05-18,8,Doença
+1030,308,2025-03-29,4,Problemas Pessoais
+1031,199,2024-10-17,4,Doença
+1032,130,2025-06-17,8,Doença
+1033,246,2024-07-11,8,Problemas Pessoais
+1034,312,2024-05-29,8,Doença
+1035,60,2025-05-29,8,Licença
+1036,279,2025-01-27,8,Consulta Médica
+1037,103,2024-11-11,8,Problemas Pessoais
+1038,296,2024-03-16,8,Consulta Médica
+1039,320,2025-08-21,4,Doença
+1040,487,2024-09-26,4,Doença
+1041,341,2024-08-12,8,Licença
+1042,151,2025-06-13,8,Problemas Pessoais
+1043,157,2024-04-22,4,Doença
+1044,206,2024-09-07,8,Problemas Pessoais
+1045,474,2024-08-20,4,Problemas Pessoais
+1046,179,2025-12-14,8,Problemas Pessoais
+1047,197,2024-03-23,4,Problemas Pessoais
+1048,223,2024-05-04,8,Problemas Pessoais
+1049,89,2024-06-23,8,Consulta Médica
+1050,287,2024-03-09,4,Licença
+1051,434,2024-02-16,8,Problemas Pessoais
+1052,276,2024-09-12,8,Consulta Médica
+1053,236,2025-12-27,8,Doença
+1054,183,2024-01-30,8,Problemas Pessoais
+1055,209,2024-10-07,8,Doença
+1056,493,2024-08-24,4,Problemas Pessoais
+1057,130,2024-09-04,8,Consulta Médica
+1058,153,2025-01-02,4,Consulta Médica
+1059,13,2025-05-09,4,Consulta Médica
+1060,122,2024-01-25,4,Licença
+1061,359,2025-08-08,8,Doença
+1062,220,2025-12-18,8,Licença
+1063,106,2025-05-04,4,Problemas Pessoais
+1064,375,2025-05-08,4,Doença
+1065,70,2024-11-09,8,Consulta Médica
+1066,195,2025-08-28,4,Doença
+1067,186,2025-01-09,4,Consulta Médica
+1068,99,2025-09-30,4,Licença
+1069,82,2024-01-25,8,Licença
+1070,75,2024-11-29,8,Consulta Médica
+1071,374,2024-12-20,8,Consulta Médica
+1072,340,2024-04-25,8,Problemas Pessoais
+1073,192,2024-02-17,8,Licença
+1074,325,2024-04-08,8,Licença
+1075,467,2025-04-03,8,Problemas Pessoais
+1076,214,2025-06-06,8,Licença
+1077,315,2025-08-19,4,Consulta Médica
+1078,444,2025-02-08,4,Doença
+1079,467,2024-08-01,8,Doença
+1080,382,2025-11-15,8,Licença
+1081,367,2025-05-17,8,Problemas Pessoais
+1082,318,2025-12-21,8,Consulta Médica
+1083,144,2025-03-23,8,Doença
+1084,384,2025-07-29,4,Consulta Médica
+1085,216,2024-09-14,8,Licença
+1086,361,2024-04-30,8,Licença
+1087,324,2024-02-23,8,Doença
+1088,15,2024-11-26,8,Licença
+1089,217,2024-08-28,8,Problemas Pessoais
+1090,492,2025-06-13,4,Licença
+1091,439,2025-04-27,8,Licença
+1092,35,2024-07-05,4,Licença
+1093,183,2025-10-17,8,Consulta Médica
+1094,270,2024-09-18,8,Consulta Médica
+1095,433,2024-12-29,8,Doença
+1096,467,2025-05-05,8,Doença
+1097,358,2025-03-06,8,Doença
+1098,100,2024-08-26,8,Licença
+1099,7,2024-10-30,8,Consulta Médica
+1100,30,2024-10-24,8,Problemas Pessoais
+1101,467,2024-03-16,8,Licença
+1102,305,2025-11-30,8,Licença
+1103,473,2024-11-28,4,Licença
+1104,144,2025-10-03,8,Problemas Pessoais
+1105,111,2025-04-18,8,Doença
+1106,232,2024-10-09,4,Problemas Pessoais
+1107,179,2025-08-13,4,Doença
+1108,72,2024-03-12,4,Problemas Pessoais
+1109,210,2024-09-19,8,Consulta Médica
+1110,220,2025-12-03,8,Licença
+1111,80,2025-07-28,8,Licença
+1112,500,2024-01-12,4,Licença
+1113,83,2024-05-20,8,Doença
+1114,42,2025-07-08,4,Problemas Pessoais
+1115,273,2024-01-17,8,Consulta Médica
+1116,191,2024-03-03,8,Problemas Pessoais
+1117,173,2024-09-09,4,Licença
+1118,461,2025-04-09,8,Consulta Médica
+1119,7,2025-01-10,4,Consulta Médica
+1120,155,2025-06-03,8,Licença
+1121,10,2024-03-30,8,Problemas Pessoais
+1122,34,2025-12-20,8,Licença
+1123,36,2025-09-21,4,Problemas Pessoais
+1124,409,2024-06-23,4,Consulta Médica
+1125,6,2024-03-16,8,Consulta Médica
+1126,408,2025-09-04,4,Licença
+1127,402,2025-10-24,8,Consulta Médica
+1128,215,2025-02-03,8,Doença
+1129,134,2024-03-11,4,Consulta Médica
+1130,285,2024-06-28,4,Doença
+1131,126,2024-05-03,8,Consulta Médica
+1132,409,2025-01-15,8,Licença
+1133,439,2024-10-19,8,Licença
+1134,337,2024-07-13,8,Doença
+1135,174,2024-08-15,8,Licença
+1136,152,2025-03-06,4,Consulta Médica
+1137,331,2025-03-11,8,Consulta Médica
+1138,26,2025-04-05,8,Licença
+1139,383,2025-09-09,4,Consulta Médica
+1140,115,2024-01-21,4,Problemas Pessoais
+1141,382,2024-03-04,4,Problemas Pessoais
+1142,482,2024-06-13,4,Consulta Médica
+1143,284,2024-01-27,8,Licença
+1144,387,2024-11-06,8,Doença
+1145,75,2024-10-11,4,Licença
+1146,166,2025-10-21,8,Doença
+1147,189,2024-10-07,8,Licença
+1148,78,2024-06-12,8,Consulta Médica
+1149,435,2024-08-11,8,Problemas Pessoais
+1150,90,2024-05-25,4,Licença
+1151,176,2024-01-30,8,Doença
+1152,21,2024-02-14,8,Problemas Pessoais
+1153,54,2025-04-15,4,Doença
+1154,184,2024-02-03,4,Consulta Médica
+1155,359,2025-10-14,4,Problemas Pessoais
+1156,222,2025-03-02,4,Doença
+1157,315,2024-08-08,8,Licença
+1158,328,2025-06-17,8,Consulta Médica
+1159,179,2025-11-22,8,Consulta Médica
+1160,276,2025-01-01,8,Consulta Médica
+1161,112,2025-07-03,8,Licença
+1162,224,2025-08-04,8,Licença
+1163,214,2024-04-25,8,Problemas Pessoais
+1164,59,2024-08-26,4,Licença
+1165,327,2024-11-30,8,Problemas Pessoais
+1166,393,2025-03-16,8,Consulta Médica
+1167,109,2024-05-27,4,Problemas Pessoais
+1168,385,2024-01-09,8,Doença
+1169,157,2024-10-14,8,Consulta Médica
+1170,191,2025-01-22,8,Consulta Médica
+1171,200,2024-02-19,8,Problemas Pessoais
+1172,312,2025-05-31,8,Consulta Médica
+1173,196,2025-09-29,8,Licença
+1174,35,2025-08-09,8,Doença
+1175,379,2025-11-07,8,Problemas Pessoais
+1176,387,2024-10-04,8,Problemas Pessoais
+1177,246,2024-10-26,8,Consulta Médica
+1178,237,2025-08-11,8,Licença
+1179,104,2025-10-10,8,Consulta Médica
+1180,7,2025-09-09,8,Consulta Médica
+1181,283,2025-08-29,4,Problemas Pessoais
+1182,1,2024-05-14,4,Consulta Médica
+1183,219,2025-08-02,4,Doença
+1184,464,2024-05-26,8,Consulta Médica
+1185,230,2025-05-04,4,Consulta Médica
+1186,455,2025-04-22,4,Problemas Pessoais
+1187,172,2024-06-07,8,Consulta Médica
+1188,87,2025-01-18,8,Licença
+1189,41,2024-06-11,8,Problemas Pessoais
+1190,123,2025-03-16,4,Consulta Médica
+1191,331,2024-07-07,8,Doença
+1192,298,2025-02-18,8,Doença
+1193,373,2024-12-04,8,Problemas Pessoais
+1194,417,2025-08-29,8,Problemas Pessoais
+1195,178,2024-06-29,8,Consulta Médica
+1196,63,2024-10-14,4,Licença
+1197,484,2024-07-05,4,Consulta Médica
+1198,165,2024-05-17,4,Doença
+1199,489,2024-05-09,8,Licença
+1200,187,2024-07-12,8,Licença
